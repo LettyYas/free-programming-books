@@ -1,0 +1,1 @@
+El comando git commit captura una instantánea de los cambios preparados en ese momento del proyecto.
